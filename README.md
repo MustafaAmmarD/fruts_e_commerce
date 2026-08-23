@@ -6,7 +6,7 @@ A modern, fast, and responsive Flutter E-Commerce mobile application tailored fo
 
 | Home & Browse | Product Details | Cart & Checkout |
 |---------------|-----------------|-----------------|
-| ![Home](screenshots/1.jpg) | ![Product](screenshots/2.jpg) | ![Cart](screenshots/3.jpg) |
+| ![Home](screenshots/5789410156469751968.jpg) | ![Product](screenshots/5789410156469751969.jpg) | ![Cart](screenshots/5789410156469751970.jpg) |
 
 ## ✨ Features
 
