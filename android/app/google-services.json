@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266007843193",
+    "project_id": "fruit-hub-beba7",
+    "storage_bucket": "fruit-hub-beba7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266007843193:android:365a44f47fc415ab339fa8",
+        "android_client_info": {
+          "package_name": "com.example.fruts_e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8EMr6H50eSFlvK5VFZAkhOMg3WdlAGjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
